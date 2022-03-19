@@ -1,3 +1,10 @@
 Ход выполнения домашнего задания:
 
-1. 
+Выполнены все шаги из инструкции (manual.md).
+В процессе выполнения блока по созданию собственного образа при помощи packer-а была выполнена команда packer fix для корректировки файла .json
+Публикация образа на vagrant cloud производилась через web.
+В "форкнутом" репозитории manual_kernel_update создана папка ht с этим файлом, vagrant файлом для машины с обновленным ядром и скриншотом версии ядра.
+
+Ссылки на репозитории:
+https://github.com/linerkvark/manual_kernel_update/tree/master/ht
+https://app.vagrantup.com/kvarkliner/boxes/centos7-k5
